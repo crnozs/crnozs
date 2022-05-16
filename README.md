@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ceren
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m interested in Game Design and Game Development
+- 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me ozsayincerenn@gmail.com
 
 <!---
